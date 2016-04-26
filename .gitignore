@@ -1,0 +1,4 @@
+*.o
+BTTestingTool
+db_test
+log.wfl
